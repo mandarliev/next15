@@ -11,3 +11,8 @@
 # [x] All Startups & Startup Card
 
 # [x] Sanity Setup
+
+# [x] Sanity Schema
+
+
+
